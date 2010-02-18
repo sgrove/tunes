@@ -1,0 +1,11 @@
+'(2
+  ("2.js"
+   #P"/Users/seangrove/code/lisp/tunes/lib/src/weblocks-stable/pub/scripts/vzn/prototype.0.js"
+   #P"/Users/seangrove/code/lisp/tunes/lib/src/weblocks-stable/pub/scripts/vzn/scriptaculous.0.js"
+   #P"/Users/seangrove/code/lisp/tunes/lib/src/weblocks-stable/pub/scripts/vzn/shortcut.0.js"
+   #P"/Users/seangrove/code/lisp/tunes/lib/src/weblocks-stable/pub/scripts/vzn/weblocks.0.js"
+   #P"/Users/seangrove/code/lisp/tunes/lib/src/weblocks-stable/pub/scripts/vzn/dialog.0.js")
+  ("1.css"
+   #P"/Users/seangrove/code/lisp/tunes/lib/src/weblocks-stable/pub/stylesheets/vzn/layout.0.css"
+   #P"/Users/seangrove/code/lisp/tunes/lib/src/weblocks-stable/pub/stylesheets/vzn/main.0.css"
+   #P"/Users/seangrove/code/lisp/tunes/lib/src/weblocks-stable/pub/stylesheets/vzn/dialog.0.css"))

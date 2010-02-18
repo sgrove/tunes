@@ -1,0 +1,1 @@
+../src/weblocks-stable/weblocks-store-test.asd
